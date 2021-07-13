@@ -11,4 +11,6 @@
     - see or put films in 'watch list' 
 
 # How do I use it? 
-    - for now, just start the 'index.html' file. When it's finished, you gonna use your login and pass from themoviedb to see your watchlist
+    - click in the link to see on web https://vigilant-jones-402a8e.netlify.app/ 
+    - if you're gonna clone, for now, just start the 'index.html' file. 
+
