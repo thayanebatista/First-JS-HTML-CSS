@@ -11,6 +11,6 @@
     - see or put films in 'watch list' 
 
 # How do I use it? 
-### click [here] (https://vigilant-jones-402a8e.netlify.app/) or copy the link to see on web browser https://vigilant-jones-402a8e.netlify.app/  
+### click [here](https://vigilant-jones-402a8e.netlify.app/) or copy the link to see on web browser https://vigilant-jones-402a8e.netlify.app/  
     - if you're gonna clone, for now, just start the 'index.html' file. 
 
